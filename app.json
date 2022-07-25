@@ -7,8 +7,8 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/M-STER-YT",
-    "repository": "https://github.com/M-STER-YT/Adv-Auto-Filter-Bot-V2",
+    "website": "https://github.com/DeepSandhra",
+    "repository": "https://github.com/DeepSandhra/Adv-Auto-Filter-Bot-V2",
     "success_url": "https://telegram.dog/M_STER_TECH",
     "env": {
         "APP_ID": {
