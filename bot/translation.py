@@ -44,10 +44,10 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@M_STER_TECH
+@MoRe_BoTs
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : @CYBER_YT1
+<b>➥ Creator</b> : @IamDevilofmylife
 """
