@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/Movies_Downloader_bot_channel"
+                                    'Developers', url="https://t.me/punjabi_funn"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/Movies_Downloader_bot_channel"
+                                    'Developers', url="https://t.me/punjabi_funn"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/Movies_Downloader_bot_channel"
+                                    'Developers', url="https://t.me/punjabi_funn"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/Movies_Downloader_bot_channel'),
+        InlineKeyboardButton('Developers', url='https://t.me/punjabi_funn'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/DeepSandhra/Adv-Auto-Filter-Bot-V2')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/BaajreDaSitta_HD_2022')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/allMoviesavailable_2022')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
